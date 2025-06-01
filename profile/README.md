@@ -1,12 +1,11 @@
-## Hi there 👋
+![main](https://github.com/user-attachments/assets/8b76f575-1598-4cfb-8360-d1212e73d86c)
 
-<!--
+# OMD迷你离屏显示屏
 
-**Here are some ideas to get you started:**
+[English](./README_en.md)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 简介
+
+这是一个迷你显示器的项目，包含了显示屏的硬件与固件设计，和上位机的库以及调用示例。
+
+你可以使用简单的代码调用我们提供的库，通过USB-HID或蓝牙即可控制屏幕的显示与外设或是获取屏幕外设的状态。
