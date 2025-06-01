@@ -1,6 +1,6 @@
 ![main](https://github.com/user-attachments/assets/8b76f575-1598-4cfb-8360-d1212e73d86c)
 
-# OMD迷你离屏显示屏
+# OMD迷你显示屏
 
 [English](./README_en.md)
 
